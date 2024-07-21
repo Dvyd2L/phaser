@@ -1,0 +1,120 @@
+{
+  "path": "assets/gui/fantasy-wooden",
+  "files": [
+    {
+      "type": "image",
+      "key": "close-btn",
+      "url": "Close Button.png"
+    },
+    {
+      "type": "image",
+      "key": "division-line",
+      "url": "Division line.png"
+    },
+    {
+      "type": "image",
+      "key": "exclamation-gray",
+      "url": "Exclamation_Gray.png"
+    },
+    {
+      "type": "image",
+      "key": "exclamation-red",
+      "url": "Exclamation_Red.png"
+    },
+    {
+      "type": "image",
+      "key": "exclamation-yellow",
+      "url": "Exclamation_Yellow.png"
+    },
+    {
+      "type": "image",
+      "key": "fantasy-wooden",
+      "url": "Fantasy Wooden GUI  - PNG.png"
+    },
+    {
+      "type": "image",
+      "key": "irony-title-empty",
+      "url": "IRONY TITLE  empty.png"
+    },
+    {
+      "type": "image",
+      "key": "irony-title-large",
+      "url": "IRONY TITLE  Large.png"
+    },
+    {
+      "type": "image",
+      "key": "notice",
+      "url": "notice.png"
+    },
+    {
+      "type": "image",
+      "key": "TextBTN_Big",
+      "url": "TextBTN_Big.png"
+    },
+    {
+      "type": "image",
+      "key": "TextBTN_Big_Pressed",
+      "url": "TextBTN_Big_Pressed.png"
+    },
+    {
+      "type": "image",
+      "key": "TextBTN_Cancel",
+      "url": "TextBTN_Cancel.png"
+    },
+    {
+      "type": "image",
+      "key": "TextBTN_Cancel_Pressed",
+      "url": "TextBTN_Cancel_Pressed.png"
+    },
+    {
+      "type": "image",
+      "key": "TextBTN_Medium",
+      "url": "TextBTN_Medium.png"
+    },
+    {
+      "type": "image",
+      "key": "TextBTN_Medium_Pressed",
+      "url": "TextBTN_Medium_Pressed.png"
+    },
+    {
+      "type": "image",
+      "key": "TextBTN_New-Start",
+      "url": "TextBTN_New-Start.png"
+    },
+    {
+      "type": "image",
+      "key": "TextBTN_New-Start_Pressed",
+      "url": "TextBTN_New-Start_Pressed.png"
+    },
+    {
+      "type": "image",
+      "key": "board-lg-parchment",
+      "url": "UI board Large  parchment.png"
+    },
+    {
+      "type": "image",
+      "key": "board-lg-stone",
+      "url": "UI board Large  stone.png"
+    },
+    {
+      "type": "image",
+      "key": "board-md-parchment",
+      "url": "UI board Medium  parchment.png"
+    },
+    {
+      "type": "image",
+      "key": "board-md-stone",
+      "url": "UI board Medium  stone.png"
+    },
+    {
+      "type": "image",
+      "key": "board-sm-parchment",
+      "url": "UI board Small  parchment.png"
+    },
+    {
+      "type": "image",
+      "key": "board-sm-stone",
+      "url": "UI board Small  stone.png"
+    }
+  ]
+}

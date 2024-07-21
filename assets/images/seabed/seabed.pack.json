@@ -1,0 +1,608 @@
+[
+  {
+    "path": "assets/images/seabed/Objects_separately",
+    "files": [
+      {
+        "type": "image",
+        "key": "Anchor_shadow1",
+        "url": "Anchor_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Anchor_shadow2",
+        "url": "Anchor_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Anchor_shadow3",
+        "url": "Anchor_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Beige-violet_coral1_shadow1",
+        "url": "Beige-violet_coral1_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Beige-violet_coral1_shadow2",
+        "url": "Beige-violet_coral1_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Beige-violet_coral1_shadow3",
+        "url": "Beige-violet_coral1_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Beige-violet_coral2_shadow1",
+        "url": "Beige-violet_coral2_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Beige-violet_coral2_shadow2",
+        "url": "Beige-violet_coral2_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Beige-violet_coral2_shadow3",
+        "url": "Beige-violet_coral2_shadow3.png"
+      },
+
+      {
+        "type": "image",
+        "key": "Blue_coral1_shadow1",
+        "url": "Blue_coral1_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Blue_coral1_shadow2",
+        "url": "Blue_coral1_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Blue_coral1_shadow3",
+        "url": "Blue_coral1_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Blue_coral2_shadow1",
+        "url": "Blue_coral2_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Blue_coral2_shadow2",
+        "url": "Blue_coral2_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Blue_coral2_shadow3",
+        "url": "Blue_coral2_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Blue_coral3_shadow1",
+        "url": "Blue_coral3_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Blue_coral3_shadow2",
+        "url": "Blue_coral3_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Blue_coral3_shadow3",
+        "url": "Blue_coral3_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Blue-beige_coral1_shadow1",
+        "url": "Blue-beige_coral1_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Blue-beige_coral1_shadow2",
+        "url": "Blue-beige_coral1_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Blue-beige_coral1_shadow3",
+        "url": "Blue-beige_coral1_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Blue-beige_coral2_shadow1",
+        "url": "Blue-beige_coral2_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Blue-beige_coral2_shadow2",
+        "url": "Blue-beige_coral2_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Blue-beige_coral2_shadow3",
+        "url": "Blue-beige_coral2_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Blue-beige_coral3_shadow1",
+        "url": "Blue-beige_coral3_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Blue-beige_coral3_shadow2",
+        "url": "Blue-beige_coral3_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Blue-beige_coral3_shadow3",
+        "url": "Blue-beige_coral3_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Brown-white_shell1_shadow1",
+        "url": "Brown-white_shell1_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Brown-white_shell1_shadow2",
+        "url": "Brown-white_shell1_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Brown-white_shell1_shadow3",
+        "url": "Brown-white_shell1_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Brown-white_shell2_shadow1",
+        "url": "Brown-white_shell2_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Brown-white_shell2_shadow2",
+        "url": "Brown-white_shell2_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Brown-white_shell2_shadow3",
+        "url": "Brown-white_shell2_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Crab_shadow1",
+        "url": "Crab_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Crab_shadow2",
+        "url": "Crab_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Crab_shadow3",
+        "url": "Crab_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Dragon_bones_shadow1",
+        "url": "Dragon_bones_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Dragon_bones_shadow2",
+        "url": "Dragon_bones_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Dragon_bones_shadow3",
+        "url": "Dragon_bones_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Gray-red_coral1_shadow1",
+        "url": "Gray-red_coral1_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Gray-red_coral1_shadow2",
+        "url": "Gray-red_coral1_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Gray-red_coral1_shadow3",
+        "url": "Gray-red_coral1_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Gray-red_coral2_shadow1",
+        "url": "Gray-red_coral2_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Gray-red_coral2_shadow2",
+        "url": "Gray-red_coral2_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Gray-red_coral2_shadow3",
+        "url": "Gray-red_coral2_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Gray-red_coral3_shadow1",
+        "url": "Gray-red_coral3_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Gray-red_coral3_shadow2",
+        "url": "Gray-red_coral3_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Gray-red_coral3_shadow3",
+        "url": "Gray-red_coral3_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Mermaid_house_shadow1",
+        "url": "Mermaid_house_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Mermaid_house_shadow2",
+        "url": "Mermaid_house_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Mermaid_house_shadow3",
+        "url": "Mermaid_house_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Monster_fish_bones_shadow1",
+        "url": "Monster_fish_bones_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Monster_fish_bones_shadow2",
+        "url": "Monster_fish_bones_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Monster_fish_bones_shadow3",
+        "url": "Monster_fish_bones_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Pearl_sea_shell1_shadow1",
+        "url": "Pearl_sea_shell1_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Pearl_sea_shell1_shadow2",
+        "url": "Pearl_sea_shell1_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Pearl_sea_shell1_shadow3",
+        "url": "Pearl_sea_shell1_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Pearl_sea_shell2_shadow1",
+        "url": "Pearl_sea_shell2_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Pearl_sea_shell2_shadow2",
+        "url": "Pearl_sea_shell2_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Pearl_sea_shell2_shadow3",
+        "url": "Pearl_sea_shell2_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Riff1_shadow1",
+        "url": "Riff1_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Riff1_shadow2",
+        "url": "Riff1_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Riff1_shadow3",
+        "url": "Riff1_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Riff2_shadow1",
+        "url": "Riff2_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Riff2_shadow2",
+        "url": "Riff2_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Riff2_shadow3",
+        "url": "Riff2_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Riff3_shadow1",
+        "url": "Riff3_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Riff3_shadow2",
+        "url": "Riff3_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Riff3_shadow3",
+        "url": "Riff3_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Riff4_shadow1",
+        "url": "Riff4_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Riff4_shadow2",
+        "url": "Riff4_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Riff4_shadow3",
+        "url": "Riff4_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Sea_insect_shadow1",
+        "url": "Sea_insect_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Sea_insect_shadow2",
+        "url": "Sea_insect_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Sea_insect_shadow3",
+        "url": "Sea_insect_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Sea_urchin1_shadow1",
+        "url": "Sea_urchin1_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Sea_urchin1_shadow2",
+        "url": "Sea_urchin1_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Sea_urchin1_shadow3",
+        "url": "Sea_urchin1_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Sea_urchin2_shadow1",
+        "url": "Sea_urchin2_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Sea_urchin2_shadow2",
+        "url": "Sea_urchin2_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Sea_urchin2_shadow3",
+        "url": "Sea_urchin2_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Ship1_shadow1",
+        "url": "Ship1_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Ship1_shadow2",
+        "url": "Ship1_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Ship1_shadow3",
+        "url": "Ship1_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Ship2_shadow1",
+        "url": "Ship2_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Ship2_shadow2",
+        "url": "Ship2_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Ship2_shadow3",
+        "url": "Ship2_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Starfish1_shadow1",
+        "url": "Starfish1_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Starfish1_shadow2",
+        "url": "Starfish1_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Starfish1_shadow3",
+        "url": "Starfish1_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Starfish2_shadow1",
+        "url": "Starfish2_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Starfish2_shadow2",
+        "url": "Starfish2_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Starfish2_shadow3",
+        "url": "Starfish2_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Statue1_shadow1",
+        "url": "Statue1_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Statue1_shadow2",
+        "url": "Statue1_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Statue1_shadow3",
+        "url": "Statue1_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Statue2_shadow1",
+        "url": "Statue2_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Statue2_shadow2",
+        "url": "Statue2_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Statue2_shadow3",
+        "url": "Statue2_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Steering_wheel_shadow1",
+        "url": "Steering_wheel_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Steering_wheel_shadow2",
+        "url": "Steering_wheel_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Steering_wheel_shadow3",
+        "url": "Steering_wheel_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Turtle_shell_shadow1",
+        "url": "Turtle_shell_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Turtle_shell_shadow2",
+        "url": "Turtle_shell_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Turtle_shell_shadow3",
+        "url": "Turtle_shell_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Violet-pink_coral1_shadow1",
+        "url": "Violet-pink_coral1_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Violet-pink_coral1_shadow2",
+        "url": "Violet-pink_coral1_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Violet-pink_coral1_shadow3",
+        "url": "Violet-pink_coral1_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Violet-pink_coral2_shadow1",
+        "url": "Violet-pink_coral2_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Violet-pink_coral2_shadow2",
+        "url": "Violet-pink_coral2_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Violet-pink_coral2_shadow3",
+        "url": "Violet-pink_coral2_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Violet-pink_coral3_shadow1",
+        "url": "Violet-pink_coral3_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Violet-pink_coral3_shadow2",
+        "url": "Violet-pink_coral3_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Violet-pink_coral3_shadow3",
+        "url": "Violet-pink_coral3_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Yellow-white-gray_shell1_shadow1",
+        "url": "Yellow-white-gray_shell1_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Yellow-white-gray_shell1_shadow2",
+        "url": "Yellow-white-gray_shell1_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Yellow-white-gray_shell1_shadow3",
+        "url": "Yellow-white-gray_shell1_shadow3.png"
+      },
+      {
+        "type": "image",
+        "key": "Yellow-white-gray_shell2_shadow1",
+        "url": "Yellow-white-gray_shell2_shadow1.png"
+      },
+      {
+        "type": "image",
+        "key": "Yellow-white-gray_shell2_shadow2",
+        "url": "Yellow-white-gray_shell2_shadow2.png"
+      },
+      {
+        "type": "image",
+        "key": "Yellow-white-gray_shell2_shadow3",
+        "url": "Yellow-white-gray_shell2_shadow3.png"
+      }
+    ]
+  }
+]

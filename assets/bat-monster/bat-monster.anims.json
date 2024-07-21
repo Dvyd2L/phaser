@@ -1,0 +1,404 @@
+{
+  "anims": [
+    {
+      "key": "bat-monster-idle",
+      "type": "frames",
+      "repeat": -1,
+      "frameRate": 18,
+      "frames": [
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_000"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_001"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_002"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_003"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_004"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_005"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_006"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_007"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_008"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_009"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_010"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_011"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_012"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_013"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_014"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_015"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_016"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_idle_017"
+        }
+      ]
+    },
+    {
+      "key": "bat-monster-fly",
+      "type": "frames",
+      "repeat": 0,
+      "frameRate": 18,
+      "frames": [
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_000"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_001"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_002"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_003"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_004"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_005"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_006"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_007"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_008"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_009"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_010"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_011"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_012"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_013"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_014"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_015"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_016"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fly_017"
+        }
+      ]
+    },
+    {
+      "key": "bat-monster-fall",
+      "type": "frames",
+      "repeat": 0,
+      "frameRate": 18,
+      "frames": [
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_000"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_001"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_002"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_003"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_004"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_005"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_006"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_007"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_008"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_009"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_010"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_012"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_011"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_013"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_014"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_015"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_016"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_fall_017"
+        }
+      ]
+    },
+    {
+      "key": "bat-monster-dying",
+      "type": "frames",
+      "repeat": 0,
+      "frameRate": 18,
+      "frames": [
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_000"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_001"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_002"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_003"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_004"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_005"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_006"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_007"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_008"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_009"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_010"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_011"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_012"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_013"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_014"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_015"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_016"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_dying_017"
+        }
+      ]
+    },
+    {
+      "key": "bat-monster-attack",
+      "type": "frames",
+      "repeat": 0,
+      "frameRate": 18,
+      "frames": [
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_000"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_001"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_002"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_003"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_004"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_005"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_006"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_007"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_008"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_009"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_010"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_011"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_012"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_013"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_014"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_015"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_016"
+        },
+        {
+          "key": "bat-monster",
+          "frame": "0_monster_attack_017"
+        }
+      ]
+    }
+  ]
+}

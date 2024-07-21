@@ -1,0 +1,1178 @@
+{
+    "frames": [
+        {
+            "filename": "0_monster_idle_000",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_idle_001",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 528,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_idle_002",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 1056,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_idle_003",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 1584,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_idle_004",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 2112,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_idle_005",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 2640,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_idle_006",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 3168,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_idle_008",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 3696,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_idle_007",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 4224,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_idle_009",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 4752,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_idle_010",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 5280,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_idle_011",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 5808,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_idle_012",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 6336,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_idle_013",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 6864,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_idle_014",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 7392,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_idle_016",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 7920,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_idle_015",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 8448,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_idle_017",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 8976,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_000",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 0,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_001",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 528,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_002",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 1056,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_003",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 1584,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_004",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 2112,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_005",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 2640,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_006",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 3168,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_007",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 3696,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_008",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 4224,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_009",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 4752,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_010",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 5280,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_011",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 5808,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_012",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 6336,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_013",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 6864,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_014",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 7392,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_015",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 7920,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_016",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 8448,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fly_017",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 8976,
+                "y": 342
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_000",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 0,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_001",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 528,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_003",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 1056,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_002",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 1584,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_004",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 2112,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_005",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 2640,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_006",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 3168,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_007",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 3696,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_008",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 4224,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_009",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 4752,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_010",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 5280,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_011",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 5808,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_012",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 6336,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_013",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 6864,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_014",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 7392,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_015",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 7920,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_016",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 8448,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_fall_017",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 8976,
+                "y": 684
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_000",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 0,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_001",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 528,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_002",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 1056,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_003",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 1584,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_004",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 2112,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_006",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 2640,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_005",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 3168,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_007",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 3696,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_008",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 4224,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_009",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 4752,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_010",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 5280,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_011",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 5808,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_012",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 6336,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_013",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 6864,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_014",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 7392,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_015",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 7920,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_016",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 8448,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_dying_017",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 8976,
+                "y": 1026
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_000",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 0,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_001",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 528,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_002",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 1056,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_003",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 1584,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_004",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 2112,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_005",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 2640,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_006",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 3168,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_007",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 3696,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_008",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 4224,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_009",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 4752,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_010",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 5280,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_011",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 5808,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_012",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 6336,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_013",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 6864,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_014",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 7392,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_015",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 7920,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_016",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 8448,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "0_monster_attack_017",
+            "frame": {
+                "w": 528,
+                "h": 342,
+                "x": 8976,
+                "y": 1368
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
